@@ -16,7 +16,7 @@ import com.infosys.irs.repository.UserRepository;
 
 @Service
 public class RegistrationService {
-//branch2 edit
+//branch2 edit service branch
 	@Autowired
 	private UserRepository userRepository;
 
